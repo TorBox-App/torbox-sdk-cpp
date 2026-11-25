@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.14)
-project(torbox-sdk VERSION 9.3.1 LANGUAGES CXX)
+project(torbox-sdk VERSION 9.3.2026112508 LANGUAGES CXX)
 
 include(GNUInstallDirs)
 

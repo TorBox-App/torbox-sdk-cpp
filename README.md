@@ -7,7 +7,7 @@ Install the Boost.JSON and OpenSSL development packages before configuring CMake
 include(FetchContent)
 FetchContent_Declare(torbox
   GIT_REPOSITORY https://github.com/TorBox-App/torbox-sdk-cpp.git
-  GIT_TAG v9.3.1-20261125.4
+  GIT_TAG v9.3.2026112508
 )
 FetchContent_MakeAvailable(torbox)
 target_link_libraries(your_app PRIVATE torbox-sdk)
